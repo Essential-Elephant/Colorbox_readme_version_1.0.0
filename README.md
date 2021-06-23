@@ -25,8 +25,8 @@ User manual for Colorbox ( being updated daily! )
 <h1> Color Ramps </h1>
 <p1> This tab will store all of your color ramps that you have made. Here you can apply any color ramp directly to your node editor with the left arrow button</p1>
 <h1> Support </h1>
-<p1>This tool was a long time in the making and we think of it as a needed companion in the era of high speed design. We have a long term vision with this product and see so much more potential but now it is up to Blender users like you to help us make this into a truly epic tool. We are committed to an LTS model and want your feedback as we are eager to grow this tool to best fit the artists that need it most.</p1>
+  <p1>This tool was a long time in the making and we think of it as a needed companion in the era of high speed design. We have a long term vision with this product and see so much more potential but now it is up to Blender users like you to help us make this into a truly epic tool. We are committed to an LTS model and want your feedback as we are eager to grow this tool to best fit the artists that need it most.</p1>
 
-<p1>If you have any questions please email us directly at cameront@essentialelephant.com so that we can answer any questions.</p1>
+  <p1>If you have any questions please email us directly at cameront@essentialelephant.com so that we can answer any questions.</p1>
 
   <p1>Also be sure to join in the conversation and follow us on Instagram at theessentialelephant</p1>
