@@ -43,13 +43,21 @@ User manual for Colorbox ( being updated daily! )
  <h3>___Delete</h3>
 <p1>This will permanently delete the collection</p1>
  <h3>___Show/hide options for every palette</h3>
-  <p1>This will hide the individual options above every palette for a much cleaner look</p1>
+  <p1>This will hide the individual options above every palette for a much cleaner look ( this is on by default )</p1>
  <h3>___More options</h3>
 
  <h3>___Move</h3>
   <p1>First you have to toggle the move switch on and then select the same button on the collection you would like it to switch places with</p1>
 
   <h2> Edit bar</h2>
+<img width="332" alt="2021-06-23 20_43_18-Blender" src="https://user-images.githubusercontent.com/81212930/123151402-b47eed00-d463-11eb-96ba-453a1dba32c8.png">
+
+  <h3> Palette name </h3>
+<h3> Delete palette </h3>
+  <h3> Remove the last color </h3>
+  <h3> Add a new color </h3>
+  <h3> More options </h3>
+  <h3> Move </h3>
   <h2> Upload section </h2>
 <h1> Color Ramps </h1>
 <p1> This tab will store all of your color ramps that you have made. Here you can apply any color ramp directly to your node editor with the left arrow button</p1>
