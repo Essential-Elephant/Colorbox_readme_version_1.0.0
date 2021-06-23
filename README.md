@@ -1,3 +1,4 @@
+
 # Colorbox_readme_version_1.0.0
 User manual for Colorbox ( being updated daily! )
 
@@ -9,6 +10,7 @@ User manual for Colorbox ( being updated daily! )
 <p2>Colorbox comes as a single zip file that you can install from the add-ons tab in user preferences.
 <h1> Color Swapper </h1>
   <h2> -Collection and palette indicator </h2>
+<img width="199" alt="2021-06-23 20_20_20-Blender" src="https://user-images.githubusercontent.com/81212930/123148438-864bde00-d460-11eb-9c25-deedd98f0ff6.png">
 <p1>At the top of the Color Swapper tab you will see a collection name and a palette name, you can use the corresponding arrows to navigate through the current palettes you have available</p2>
   <h2> -Effect buttons </h2>
   <p1>Below the collection and palette indicator you will see our effects buttons</p1>
