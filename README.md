@@ -1,4 +1,5 @@
 
+
 # Colorbox_readme_version_1.0.0
 User manual for Colorbox ( being updated daily! )
 
@@ -10,7 +11,7 @@ User manual for Colorbox ( being updated daily! )
 <p2>Colorbox comes as a single zip file that you can install from the add-ons tab in user preferences.
 <h1> Color Swapper </h1>
   <h2> -Collection and palette indicator </h2>
-<img width="199" alt="2021-06-23 20_20_20-Blender" src="https://user-images.githubusercontent.com/81212930/123148438-864bde00-d460-11eb-9c25-deedd98f0ff6.png">
+<img width="248" alt="2021-06-23 20_22_45-Blender" src="https://user-images.githubusercontent.com/81212930/123148801-df1b7680-d460-11eb-8389-610a9919de84.png">
 <p1>At the top of the Color Swapper tab you will see a collection name and a palette name, you can use the corresponding arrows to navigate through the current palettes you have available</p2>
   <h2> -Effect buttons </h2>
   <p1>Below the collection and palette indicator you will see our effects buttons</p1>
@@ -21,6 +22,7 @@ User manual for Colorbox ( being updated daily! )
   <h3>___Shuffle colors</h3>
 <p1>This button will shuffle only the colors in the collection field</p1>
   <h2> -Collection field</h2>
+<img width="244" alt="2021-06-23 20_24_19-Blender" src="https://user-images.githubusercontent.com/81212930/123148943-0a9e6100-d461-11eb-9691-86a566e45fd4.png">
   <p1> This collection field functions very similar to how vertex groups and face groups operate. You can add in collections and with them selected go to your node editor and right click on color field and go down to where it says "Add to color swapper", once this is selected it will become a child of whichever collection you have selected and be driven by the color of that collection.</p1>
 <h1> Palettes </h1>
   <p1> Here you can name, import, export, and manage your color palettes</p1>
