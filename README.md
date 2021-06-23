@@ -21,5 +21,7 @@ User manual for Colorbox ( being updated daily! )
   <h2> -Collection field</h2>
   <p1> This collection field functions very similar to how vertex groups and face groups operate. You can add in collections and with them selected go to your node editor and right click on color field and go down to where it says "Add to color swapper", once this is selected it will become a child of whichever collection you have selected and be driven by the color of that collection.</p1>
 <h1> Palettes </h1>
+  <h2> Here you can name, import, export, and manage your color palettes</h2>
 <h1> Color Ramps </h1>
+<h2> This tab will store all of your color ramps that you have made. Here you can apply any color ramp directly to your node editor with the left arrow button</h2>
 <h1> Support </h1>
