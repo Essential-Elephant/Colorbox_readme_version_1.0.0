@@ -16,6 +16,8 @@ User manual for Colorbox ( being updated daily! )
   <p1>This takes the current selection and applys it to the collection field</p1>
   <h3> ***Auto-apply</h3>
 <p1>When you toggle this switch on it will auto-apply the palette you have in the indicator while you navigate</p1>
+  <h3> ***Shuffle colors</h3>
+<p1>This button will shuffle only the colors in the collection field</p1>
 <h1> Palettes </h1>
 <h1> Color Ramps </h1>
 <h1> Support </h1>
