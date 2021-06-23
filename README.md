@@ -1,5 +1,6 @@
 # Colorbox_readme_version_1.0.0
-User manual for Colorbox
+User manual for Colorbox ( being updated daily! )
+
 
 <h1> General </h1>
 <h1> Color Swapper </h1>
