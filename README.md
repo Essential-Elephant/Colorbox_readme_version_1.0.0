@@ -52,12 +52,12 @@ User manual for Colorbox ( being updated daily! )
   <h2> Edit bar</h2>
 <img width="332" alt="2021-06-23 20_43_18-Blender" src="https://user-images.githubusercontent.com/81212930/123151402-b47eed00-d463-11eb-96ba-453a1dba32c8.png">
 
-  <h3> Palette name </h3>
-<h3> Delete palette </h3>
-  <h3> Remove the last color </h3>
-  <h3> Add a new color </h3>
-  <h3> More options </h3>
-  <h3> Move </h3>
+  <h3> ___Palette name </h3>
+<h3> ___Delete palette </h3>
+  <h3> ___Remove the last color </h3>
+  <h3> ___Add a new color </h3>
+  <h3> ___More options </h3>
+  <h3> ___Move </h3>
   <h2> Upload section </h2>
 <h1> Color Ramps </h1>
 <p1> This tab will store all of your color ramps that you have made. Here you can apply any color ramp directly to your node editor with the left arrow button</p1>
