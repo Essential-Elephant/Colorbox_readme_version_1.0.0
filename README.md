@@ -37,11 +37,17 @@ User manual for Colorbox ( being updated daily! )
   <h2> Collections </h2>
 <img width="335" alt="2021-06-23 20_33_14-Blender" src="https://user-images.githubusercontent.com/81212930/123150161-569dd580-d462-11eb-83e1-db938b2aa2eb.png">
   <h3>___Show/hide collection</h3>
+  <p1>This will show or hide the contents of any collection</p1>
    <h3>___Collection name</h3>
+<p1>Here you can name your collection</p1>
  <h3>___Delete</h3>
+<p1>This will permanently delete the collection</p1>
  <h3>___Show/hide options for every palette</h3>
+  <p1>This will hide the individual options above every palette for a much cleaner look</p1>
  <h3>___More options</h3>
+
  <h3>___Move</h3>
+  <p1>First you have to toggle the move switch on and then select the same button on the collection you would like it to switch places with</p1>
 
   <h2> Edit bar</h2>
   <h2> Upload section </h2>
