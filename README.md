@@ -12,9 +12,9 @@ User manual for Colorbox ( being updated daily! )
 <p1>At the top of the Color Swapper tab you will see a collection name and a palette name, you can use the corresponding arrows to navigate through the current palettes you have available</p2>
   <h2> --Effect buttons </h2>
   <p1>Below the collection and palette indicator you will see our effects buttons</p1>
-  <h3> ***Apply palette </h3>
+  <h3>    Apply palette </h3>
   <p1>This takes the current selection and applys it to the collection field</p1>
-  <h3> ***Auto-apply</h3>
+  <h3>    Auto-apply</h3>
 <p1>When you toggle this switch on it will auto-apply the palette you have in the indicator while you navigate</p1>
   <h3> ***Shuffle colors</h3>
 <p1>This button will shuffle only the colors in the collection field</p1>
