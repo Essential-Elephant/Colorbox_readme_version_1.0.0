@@ -19,6 +19,7 @@ User manual for Colorbox ( being updated daily! )
   <h3>___Shuffle colors</h3>
 <p1>This button will shuffle only the colors in the collection field</p1>
   <h2> -Collection field</h2>
+  <p1> This collection field functions very similar to how vertex groups and face groups operate. You can add in collections and with them selected go to your node editor and right click on color field and go down to where it says "Add to color swapper", once this is selected it will become a child of whichever collection you have selected and be driven by the color of that collection.</p1>
 <h1> Palettes </h1>
 <h1> Color Ramps </h1>
 <h1> Support </h1>
