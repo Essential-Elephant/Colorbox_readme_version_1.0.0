@@ -1,2 +1,8 @@
 # Colorbox_readme_version_1.0.0
 User manual for Colorbox
+
+<h1> General </h1>
+<h1> Color Swapper </h1>
+<h1> Palettes </h1>
+<h1> Color Ramps </h1>
+<h1> Support </h1>
