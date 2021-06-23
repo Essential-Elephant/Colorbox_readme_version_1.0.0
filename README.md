@@ -4,6 +4,9 @@ User manual for Colorbox ( being updated daily! )
 
 <h1> General </h1>
 <h2> Making of</h2>
+<p1> This tool started out as a way to finally stop having to copy so many hex codes when working with specific colors, but what it turned into was a bridge to the ultimate color add-on. For centuries artists have had immediate access to their colors, so this seemed like an essential tool. We have set out to build something awsome and we have so much planned for phase 2. Please support and share our work if you would like to see the development of this add-on and other add-ons by Essential Elephant.
+  <h2> Getting started </h2>
+<p2>Colorbox comes as a single zip file that you can install from the add-ons tab in user preferences.
 <h1> Color Swapper </h1>
 <h1> Palettes </h1>
 <h1> Color Ramps </h1>
