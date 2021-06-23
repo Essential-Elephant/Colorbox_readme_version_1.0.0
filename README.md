@@ -13,9 +13,12 @@ User manual for Colorbox ( being updated daily! )
 <h1> Color Swapper </h1>
   <h2> -Collection and palette indicator </h2>
 <img width="249" alt="2021-06-23 20_25_44-Blender" src="https://user-images.githubusercontent.com/81212930/123149132-3c172c80-d461-11eb-84b6-59ccc2ead935.png">
+  
 <p1>At the top of the Color Swapper tab you will see a collection name and a palette name, you can use the corresponding arrows to navigate through the current palettes you have available</p2>
+  
   <h2> -Effect buttons </h2>
-<img width="249" alt="2021-06-23 20_25_44-Blender" src="https://user-images.githubusercontent.com/81212930/123149132-3c172c80-d461-11eb-84b6-59ccc2ead935.png">
+<img width="224" alt="2021-06-23 20_26_35-Blender" src="https://user-images.githubusercontent.com/81212930/123149428-8bf5f380-d461-11eb-8bfe-6f8f8a530c80.png">
+  
   <p1>Below the collection and palette indicator you will see our effects buttons</p1>
   <h3>___Apply palette </h3>
   <p1>This takes the current selection and applys it to the collection field</p1>
@@ -23,9 +26,12 @@ User manual for Colorbox ( being updated daily! )
 <p1>When you toggle this switch on it will auto-apply the palette you have in the indicator while you navigate</p1>
   <h3>___Shuffle colors</h3>
 <p1>This button will shuffle only the colors in the collection field</p1>
+  
   <h2> -Collection field</h2>
 <img width="244" alt="2021-06-23 20_24_19-Blender" src="https://user-images.githubusercontent.com/81212930/123148943-0a9e6100-d461-11eb-9691-86a566e45fd4.png">
+  
   <p1> This collection field functions very similar to how vertex groups and face groups operate. You can add in collections and with them selected go to your node editor and right click on color field and go down to where it says "Add to color swapper", once this is selected it will become a child of whichever collection you have selected and be driven by the color of that collection.</p1>
+  
 <h1> Palettes </h1>
   <p1> Here you can name, import, export, and manage your color palettes</p1>
 <h1> Color Ramps </h1>
